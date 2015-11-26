@@ -1,0 +1,21 @@
+{
+  "name": "webhack",
+  "version": "0.0.1",
+  "description": "Extensions building tools for Google Chrome, Firefox, and Opera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mozilla",
+    "google",
+    "chrome",
+    "add-ons",
+    "addons",
+    "jetpack",
+    "firefox",
+    "opera"
+  ],
+  "author": "Erik Vold <erikvvold@gmail.com>",
+  "license": "MIT"
+}
